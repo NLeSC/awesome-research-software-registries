@@ -2,24 +2,55 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A list of research software registries.
+A list of research software registries (also known as catalog, index, warehouse,
+repository, hub, platform, and other terms).
+
+We define a registry as any publicly accessible website where research software
+can be registered, and that employs Search Engine Optimization such as the
+addition of metadata to help promote discovery of the research software that is
+published on the registry.
+
+## Contribute
+
+Help us expand the list of research software registries by [sending us a Pull
+Request](https://help.github.com/en/articles/creating-a-pull-request). Websites
+do not necessarily have to retain their own copies of the research software
+itself in order to be included in the list below.
+
+---
 
 ## Table of Contents
 
 * [By country](#by-country)
+  * [Canada](#canada)
 * [By organization](#by-organization)
+  * [US Department of Energy](#us-department-of-energy)
+  * [Dutch Royal Library](#dutch-royal-library)
+  * [Netherlands eScience Center](#netherlands-escience-center)
 * [By programming language](#by-programming-language)
+  * [Python](#python)
+  * [MATLAB](#matlab)
+  * [Javascript, TypeScript](#javascript,-typescript)
+  * [Ruby](#ruby)
+  * [R](#r)
 * [By domain](#by-domain)
+  * [Life Sciences](#life-sciences)
+  * [Astrophysics](#astrophysics)
+  * [Text Analysis](#text-analysis)
+  * [Digital Humanities](#digital-humanities)
+  * [Nano Technology](#nano-technology)
+  * [Medicine](#medicine)
+  * [Bioimaging](#bioimaging)
 
-----
+---
 
 ## By country
 
 ### Canada
 
-https://science.canarie.ca/researchsoftware/services/list/main.html
+https://science.canarie.ca/researchsoftware/services/list/main.html Canarie
 
-----
+---
 
 ## By organization
 
@@ -57,9 +88,9 @@ https://rubygems.org/
 
 ### R
 
-https://cran.r-project.org/ (R)
+https://cran.r-project.org/
 
-----
+---
 
 ## By domain
 
@@ -71,28 +102,28 @@ https://bio.tools/ Essential scientific and technical information about software
 
 https://ascl.net/ Astrophysics Source Code Library (ASCL)
 
-### text analysis
+### Text Analysis
 
 http://tapor.ca/home
 
-### digital humanities
+### Digital Humanities
 
 1. http://dirtdirectory.org/ 
 1. https://portal.clarin.nl/clariah-tools-fs
 
-### nano technology
+### Nano Technology
 
 https://nanohub.org/resources/tools 
 
-### medicine
+### Medicine
 
 https://scicrunch.org/ 
 
-### bioimaging
+### Bioimaging
 
 https://biii.eu/
 
-### mathematics
+### Mathematics
 
 https://swmath.org
 
