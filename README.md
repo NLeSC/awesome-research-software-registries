@@ -6,14 +6,14 @@ repository, hub, platform, and other terms).
 We define a registry as any publicly accessible website where research software
 can be registered, and that employs Search Engine Optimization such as the
 addition of metadata to help promote discovery of the research software that is
-published on the registry.
+published on the registry. Websites do not necessarily have to retain their own
+copies of the research software itself in order to be included in the list
+below.
 
 ## Contribute
 
 Help us expand the list of research software registries by [sending us a Pull
-Request](https://help.github.com/en/articles/creating-a-pull-request). Websites
-do not necessarily have to retain their own copies of the research software
-itself in order to be included in the list below.
+Request](https://help.github.com/en/articles/creating-a-pull-request).
 
 ## Contents
 
