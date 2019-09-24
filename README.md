@@ -16,40 +16,62 @@ below.
 * [By organization](#by-organization)
 * [By programming language](#by-programming-language)
 * [By domain](#by-domain)
+* [Generic](#generic)
 
 ## By country
 
-* [Canada](https://science.canarie.ca/researchsoftware/services/list/main.html) -  Canarie.
-* [France](https://hal.archives-ouvertes.fr) - HAL is an open archive where authors can deposit scholarly documents from all academic fields.
-* [Netherlands](https://narcis.nl) -  NARCIS aims to record all scholarly outputs (papers, data, as well as software) produced at Dutch institutions.
+* [France](https://hal.archives-ouvertes.fr) - HAL is an open archive where
+  authors can deposit scholarly documents from all academic fields.
+* [Netherlands](https://narcis.nl) -  NARCIS aims to record all scholarly
+  outputs (papers, data, as well as software) produced at Dutch institutions.
 
 ## By organization
 
+* [US Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/opencatalog)
 * [US Department of Energy](https://www.osti.gov/doecode/)
 * [Dutch Royal Library](http://lab.kb.nl/)
 * [Netherlands eScience Center](http://software.esciencecenter.nl)
 
 ## By programming language
 
-* [Python](https://pypi.org/)
-* [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * [JavaScript, TypeScript](https://npmjs.com)
+* [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
+* Python
+  * [Python Package Index (PyPI)](https://pypi.org)
+  * [Anaconda cloud](https://anaconda.org)
+* R
+  * [CRAN](https://cran.r-project.org)
+  * [rOpenSci](https://ropensci.github.io)
 * [Ruby](https://rubygems.org/)
-* [R](https://cran.r-project.org/)
 
 ## By domain
 
 * [Astrophysics](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [Bioimaging](https://biii.eu)
-* Digital Humanities
-  * http://dirtdirectory.org/
-  * https://portal.clarin.nl/clariah-tools-fs
-* [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with software, experiments, science fields, organizations, and institutes related to High Energy Physics.
-* [Life Sciences](https://bio.tools) - Essential scientific and technical information about software tools, databases and services for bioinformatics and the life sciences.
+* [Digital Humanities](http://dirtdirectory.org) - The DiRT Directory is a
+  registry of digital research tools for scholarly use. DiRT makes it easy for
+  digital humanists and others conducting digital research to find and compare
+  resources ranging from content management systems to music OCR, statistical
+  analysis packages to mindmapping software.
+
+* [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with
+  software, experiments, science fields, organizations, and institutes related
+  to High Energy Physics.
+* [Life Sciences](https://bio.tools) - Essential scientific and technical
+  information about software tools, databases and services for bioinformatics
+  and the life sciences.
+* [Machine Learning](https://mloss.org/software)
 * [Mathematics](https://swmath.org)
 * [Medicine](https://scicrunch.org)
 * [Nano Technology](https://nanohub.org/resources/tools)
 * [Text Analysis](http://tapor.ca/home)
+
+## Generic
+
+* [CodeOcean](https://codeocean.com)
+* [FigShare](https://figshare.com)
+* [Software Heritage Archive](https://www.softwareheritage.org)
+* [Zenodo](https://zenodo.org)
 
 ## Contribute
 
