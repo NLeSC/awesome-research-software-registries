@@ -24,7 +24,7 @@ itself in order to be included in the list below.
 
 ## By country
 
-* [Canada](https://science.canarie.ca/researchsoftware/services/list/main.html ) Canarie
+* [Canada](https://science.canarie.ca/researchsoftware/services/list/main.html) -  Canarie
 
 ## By organization
 
@@ -42,12 +42,12 @@ itself in order to be included in the list below.
 
 ## By domain
 
-* [Astrophysics](https://ascl.net) Astrophysics Source Code Library (ASCL)
+* [Astrophysics](https://ascl.net) - Astrophysics Source Code Library (ASCL)
 * [Bioimaging](https://biii.eu)
 * Digital Humanities
     * http://dirtdirectory.org/
     * https://portal.clarin.nl/clariah-tools-fs
-* [Life Sciences](https://bio.tools) Essential scientific and technical information about software tools, databases and services for bioinformatics and the life sciences.
+* [Life Sciences](https://bio.tools) - Essential scientific and technical information about software tools, databases and services for bioinformatics and the life sciences.
 * [Mathematics](https://swmath.org)
 * [Medicine](https://scicrunch.org)
 * [Nano Technology](https://nanohub.org/resources/tools)
