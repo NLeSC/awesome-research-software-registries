@@ -1,6 +1,4 @@
-# Awesome Research Software Registries
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Research Software Registries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of research software registries (also known as catalog, index, warehouse,
 repository, hub, platform, and other terms).
