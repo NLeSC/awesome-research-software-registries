@@ -10,7 +10,6 @@ published on the registry. Websites do not necessarily have to retain their own
 copies of the research software itself in order to be included in the list
 below.
 
-
 ## Contents
 
 * [By country](#by-country)
