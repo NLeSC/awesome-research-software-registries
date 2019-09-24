@@ -45,8 +45,8 @@ Request](https://help.github.com/en/articles/creating-a-pull-request).
 * [Astrophysics](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [Bioimaging](https://biii.eu)
 * Digital Humanities
-    * http://dirtdirectory.org/
-    * https://portal.clarin.nl/clariah-tools-fs
+  * http://dirtdirectory.org/
+  * https://portal.clarin.nl/clariah-tools-fs
 * [Life Sciences](https://bio.tools) - Essential scientific and technical information about software tools, databases and services for bioinformatics and the life sciences.
 * [Mathematics](https://swmath.org)
 * [Medicine](https://scicrunch.org)
