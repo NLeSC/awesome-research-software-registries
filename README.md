@@ -10,10 +10,6 @@ published on the registry. Websites do not necessarily have to retain their own
 copies of the research software itself in order to be included in the list
 below.
 
-## Contribute
-
-Help us expand the list of research software registries by [sending us a Pull
-Request](https://help.github.com/en/articles/creating-a-pull-request).
 
 ## Contents
 
@@ -52,6 +48,11 @@ Request](https://help.github.com/en/articles/creating-a-pull-request).
 * [Medicine](https://scicrunch.org)
 * [Nano Technology](https://nanohub.org/resources/tools)
 * [Text Analysis](http://tapor.ca/home)
+
+## Contribute
+
+Help us expand the list of research software registries by [sending us a Pull
+Request](https://help.github.com/en/articles/creating-a-pull-request).
 
 ## License
 
