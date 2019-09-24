@@ -44,6 +44,7 @@ below.
 * Digital Humanities
   * http://dirtdirectory.org/
   * https://portal.clarin.nl/clariah-tools-fs
+* [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with software, experiments, science fields, organizations, and institutes related to High Energy Physics.
 * [Life Sciences](https://bio.tools) - Essential scientific and technical information about software tools, databases and services for bioinformatics and the life sciences.
 * [Mathematics](https://swmath.org)
 * [Medicine](https://scicrunch.org)
