@@ -24,7 +24,7 @@ Request](https://help.github.com/en/articles/creating-a-pull-request).
 
 ## By country
 
-* [Canada](https://science.canarie.ca/researchsoftware/services/list/main.html) -  Canarie
+* [Canada](https://science.canarie.ca/researchsoftware/services/list/main.html) -  Canarie.
 
 ## By organization
 
@@ -42,7 +42,7 @@ Request](https://help.github.com/en/articles/creating-a-pull-request).
 
 ## By domain
 
-* [Astrophysics](https://ascl.net) - Astrophysics Source Code Library (ASCL)
+* [Astrophysics](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [Bioimaging](https://biii.eu)
 * Digital Humanities
     * http://dirtdirectory.org/
