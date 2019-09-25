@@ -42,7 +42,8 @@ below.
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.github.io)
-* [Ruby](https://rubygems.org/)
+* [Ruby](https://rubygems.org)
+* [Rust](https://crates.io)
 
 ## By domain
 
