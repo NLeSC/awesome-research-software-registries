@@ -35,6 +35,9 @@ below.
 ## By programming language
 
 * [JavaScript, TypeScript](https://npmjs.com)
+* Julia
+  * [Julia Observer](https://juliaobserver.com/packages)
+  * [Julia Packages](https://pkg.julialang.org/docs/)
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
@@ -44,9 +47,6 @@ below.
   * [rOpenSci](https://ropensci.github.io)
 * [Ruby](https://rubygems.org)
 * [Rust](https://crates.io)
-* Julia
-  * [Julia Packages](https://pkg.julialang.org/docs/)
-  * [Julia Observer] (https://juliaobserver.com/packages)
 
 ## By domain
 
