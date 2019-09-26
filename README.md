@@ -57,7 +57,7 @@ below.
   digital humanists and others conducting digital research to find and compare
   resources ranging from content management systems to music OCR, statistical
   analysis packages to mindmapping software.
-* [Grid Computing](https://appdb.egi.eu/browse/software) - Collection of middleware as used in Grid Computing
+* [Grid Computing](https://appdb.egi.eu/browse/software) - Collection of middleware as used in Grid Computing.
 * [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
   to High Energy Physics.
