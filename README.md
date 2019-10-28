@@ -61,9 +61,11 @@ below.
 * [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
   to High Energy Physics.
-* [Life Sciences](https://bio.tools) - Essential scientific and technical
+* Life Sciences
+  * [bio.tools](https://bio.tools) - Essential scientific and technical
   information about software tools, databases and services for bioinformatics
   and the life sciences.
+  * [SBGrid](https://sbgrid.org/software/) - Structural biology softwares and datasets. Members of SBGrid can benefit access to all of the deposited softwares, e.g. PyMOL.
 * [Machine Learning](https://mloss.org/software)
 * [Mathematics](https://swmath.org)
 * [Medicine](https://scicrunch.org)
@@ -101,4 +103,3 @@ This work is published from:
       content="NL" about="https://github.com/nlesc/awesome-research-software-registries">
   Netherlands</span>.
 </p>
-
