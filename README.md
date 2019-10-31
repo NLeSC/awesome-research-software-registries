@@ -78,7 +78,7 @@ below.
 * [FigShare](https://figshare.com) - Helps academic institutions store, share and manage all of their research outputs, and issues persistent identifiers.
 * [Software Heritage Archive](https://www.softwareheritage.org)
 * [Zenodo](https://zenodo.org) - Online library where you can deposit almost any kind of digital artefact and get a persistent identifier.
-
+* [Internet Archive](https://archive.org/details/software) - The Internet Archive Software Collection is the largest vintage and historical software library in the world.
 ## Contribute
 
 Help us expand the list of research software registries by [sending us a Pull
