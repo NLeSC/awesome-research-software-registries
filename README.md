@@ -36,12 +36,10 @@ below.
 
 * [JavaScript, TypeScript](https://npmjs.com)
 * Julia
-  * [Julia Observer](https://juliaobserver.com/packages)
   * [Julia Packages](https://pkg.julialang.org/docs/)
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
-  * [Anaconda cloud](https://anaconda.org)
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.github.io)
@@ -52,11 +50,6 @@ below.
 
 * [Astrophysics](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [Bioimaging](https://biii.eu)
-* [Digital Humanities](http://dirtdirectory.org) - The DiRT Directory is a
-  registry of digital research tools for scholarly use. DiRT makes it easy for
-  digital humanists and others conducting digital research to find and compare
-  resources ranging from content management systems to music OCR, statistical
-  analysis packages to mindmapping software.
 * [Grid Computing](https://appdb.egi.eu/browse/software) - Collection of middleware as used in Grid Computing.
 * [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
