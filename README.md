@@ -40,7 +40,6 @@ below.
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
-  * [Anaconda cloud](https://anaconda.org)
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.github.io)
