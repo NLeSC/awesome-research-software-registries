@@ -54,6 +54,8 @@ below.
 * [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
   to High Energy Physics.
+* Humanities
+  * [Digital Humanities Lab Denmark](https://dighumlab.org/tools/) - Software tools as used in the humanities, such as speech analysis, tokenization, lemmatization, web content scraping, and more.
 * Life Sciences
   * [bio.tools](https://bio.tools) - Essential scientific and technical
   information about software tools, databases and services for bioinformatics
