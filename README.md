@@ -27,10 +27,11 @@ below.
 
 ## By organization
 
-* [US Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/opencatalog)
-* [US Department of Energy](https://www.osti.gov/doecode/)
+* [CompBioMed](https://www.compbiomed.eu/services/software-hub/) Software catalogue from H2020 project CompBioMed.
 * [Dutch Royal Library](http://lab.kb.nl/)
 * [Netherlands eScience Center](http://software.esciencecenter.nl)
+* [US Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/opencatalog)
+* [US Department of Energy](https://www.osti.gov/doecode/)
 
 ## By programming language
 
