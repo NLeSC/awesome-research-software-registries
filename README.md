@@ -27,8 +27,7 @@ below.
 
 ## By organization
 
-* [US Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/opencatalog)
-* [US Department of Energy](https://www.osti.gov/doecode/)
+* [CompBioMed](https://www.compbiomed.eu/services/software-hub/) - Software catalogue from H2020 project CompBioMed.
 * [Dutch Royal Library](http://lab.kb.nl/)
 * [Netherlands eScience Center](http://software.esciencecenter.nl)
 * Lawrence Berkeley National Lab
@@ -36,6 +35,8 @@ below.
   * [Computational Science Software](https://crd.lbl.gov/software/computational-science-software/)
   * [Computer Science Software](https://crd.lbl.gov/software/computer-science-software/)
   * [Data Science & Technology Software](https://crd.lbl.gov/software/data-science-and-technology-software/)
+* [US Defense Advanced Research Projects Agency (DARPA)](https://www.darpa.mil/opencatalog)
+* [US Department of Energy](https://www.osti.gov/doecode/)
 
 ## By programming language
 
@@ -59,6 +60,8 @@ below.
 * [High-Energy Physics](http://www.hepsoftware.org) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
   to High Energy Physics.
+* Humanities
+  * [Digital Humanities Lab Denmark](https://dighumlab.org/tools/) - Software tools as used in the humanities, such as speech analysis, tokenization, lemmatization, web content scraping, and more.
 * Life Sciences
   * [bio.tools](https://bio.tools) - Essential scientific and technical
   information about software tools, databases and services for bioinformatics
