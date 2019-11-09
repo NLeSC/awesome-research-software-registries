@@ -31,6 +31,11 @@ below.
 * [US Department of Energy](https://www.osti.gov/doecode/)
 * [Dutch Royal Library](http://lab.kb.nl/)
 * [Netherlands eScience Center](http://software.esciencecenter.nl)
+* Lawrence Berkeley National Lab
+  * [Applied Mathematics Software](https://crd.lbl.gov/software/applied-mathematics-software/)
+  * [Computational Science Software](https://crd.lbl.gov/software/computational-science-software/)
+  * [Computer Science Software](https://crd.lbl.gov/software/computer-science-software/)
+  * [Data Science & Technology Software](https://crd.lbl.gov/software/data-science-and-technology-software/)
 
 ## By programming language
 
