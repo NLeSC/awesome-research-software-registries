@@ -31,7 +31,7 @@ below.
 * [kb.nl](http://lab.kb.nl/) - Dutch Royal Library.
 * [esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands eScience
   Center research software directory.
-* [lbl.gov](lbl.gov) - Lawrence Berkeley National Lab
+* [lbl.gov](https://lbl.gov) - Lawrence Berkeley National Lab
   * [Applied Mathematics Software](https://crd.lbl.gov/software/applied-mathematics-software/)
   * [Computational Science Software](https://crd.lbl.gov/software/computational-science-software/)
   * [Computer Science Software](https://crd.lbl.gov/software/computer-science-software/)
