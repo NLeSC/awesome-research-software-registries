@@ -30,14 +30,14 @@ below.
 * [compbiomed.eu](https://www.compbiomed.eu/services/software-hub/) - Software catalogue from H2020 project CompBioMed.
 * [kb.nl](http://lab.kb.nl/) - Dutch Royal Library.
 * [esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands eScience
-  Center research software directory.
-* [lbl.gov](https://lbl.gov) - Lawrence Berkeley National Lab
+  Center software portfolio (powered by the [Research Software Directory](https://github.com/research-software-directory/research-software-directory).)
+* [lbl.gov](https://lbl.gov) - Lawrence Berkeley National Lab.
   * [Applied Mathematics Software](https://crd.lbl.gov/software/applied-mathematics-software/)
   * [Computational Science Software](https://crd.lbl.gov/software/computational-science-software/)
   * [Computer Science Software](https://crd.lbl.gov/software/computer-science-software/)
   * [Data Science & Technology Software](https://crd.lbl.gov/software/data-science-and-technology-software/)
 * [darpa.mil](https://www.darpa.mil/opencatalog) - US Defense Advanced Research Projects Agency (DARPA).
-* [osti.gov](https://www.osti.gov/doecode/) - US Department of Energy Code repository.
+* [osti.gov](https://www.osti.gov/doecode/) - DOECODE: US Department of Energy code repository.
 
 ## By programming language
 
