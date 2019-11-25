@@ -73,7 +73,11 @@ below.
   * [sbgrid.org](https://sbgrid.org/software/) - Structural biology softwares and datasets. Members of SBGrid can benefit access to all of the deposited softwares, e.g. PyMOL.
   * [scicrunch.org](https://scicrunch.org/browse/resourcedashboard) - A human curated repository with unique persistent identifiers that are widely used in the biomedical literature.
 * [Machine Learning](https://mloss.org/software)
-* [swmath.org](https://swmath.org) - Mathematics.
+* Mathematics
+  * [gams.nist.gov](https://gams.nist.gov/cgi-bin/serve.cgi/Packages) - A
+  cross-index and virtual repository of mathematical and statistical software
+  components of use in computational science and engineering.
+  * [swmath.org](https://swmath.org) - Mathematics.
 * [nanohub.org](https://nanohub.org/resources/tools) - Nano Technology.
 
 ## Generic
