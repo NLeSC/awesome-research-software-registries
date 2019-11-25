@@ -77,6 +77,10 @@ below.
   * [gams.nist.gov](https://gams.nist.gov/cgi-bin/serve.cgi/Packages) - A
   cross-index and virtual repository of mathematical and statistical software
   components of use in computational science and engineering.
+  * [netlib.org/JackDongarra](http://www.netlib.org/utk/people/JackDongarra/la-sw.html) - Software
+  for high-performance computers that's available in "open source" form on the
+  web for solving problems in numerical linear algebra, specifically dense,
+  sparse direct and iterative systems, and sparse iterative eigenvalue problems.
   * [swmath.org](https://swmath.org) - Mathematics.
 * [nanohub.org](https://nanohub.org/resources/tools) - Nano Technology.
 
