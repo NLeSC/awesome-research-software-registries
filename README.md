@@ -29,8 +29,9 @@ below.
 
 * [compbiomed.eu](https://www.compbiomed.eu/services/software-hub/) - Software catalogue from H2020 project CompBioMed.
 * [darpa.mil](https://www.darpa.mil/opencatalog) - US Defense Advanced Research Projects Agency (DARPA).
-* [software.esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands eScience
-  Center software portfolio (powered by the [Research Software Directory](https://github.com/research-software-directory/research-software-directory).)
+* [b2find.eudat.eu](http://b2find.eudat.eu/dataset?q=software) - Data and
+  software discovery service based on metadata harvested from research data
+  collections from EUDAT data centres and other repositories.
 * [kb.nl](http://lab.kb.nl/) - Dutch Royal Library.
 * [lbl.gov](https://lbl.gov) - Lawrence Berkeley National Lab.
   * [Applied Mathematics Software](https://crd.lbl.gov/software/applied-mathematics-software/)
@@ -39,6 +40,8 @@ below.
   * [Data Science & Technology Software](https://crd.lbl.gov/software/data-science-and-technology-software/)
 * [nasa.gov](https://software.nasa.gov/) - NASA software catalog.
 * [osti.gov/doecode](https://www.osti.gov/doecode/) - DOECODE: US Department of Energy code repository.
+* [software.esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands eScience
+  Center software portfolio (powered by the [Research Software Directory](https://github.com/research-software-directory/research-software-directory).)
 
 ## By programming language
 
@@ -116,3 +119,4 @@ This work is published from:
       content="NL" about="https://github.com/nlesc/awesome-research-software-registries">
   Netherlands</span>.
 </p>
+
