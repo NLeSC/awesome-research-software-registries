@@ -61,7 +61,7 @@ below.
 
 * [ascl.net](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [egi.eu](https://appdb.egi.eu/browse/software) - Grid Computing middleware.
-* [hepsoftware.org](http://www.hepsoftware.org) - Multi-faceted browser with
+* [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
   to High Energy Physics.
 * Humanities
