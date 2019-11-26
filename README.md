@@ -61,21 +61,27 @@ below.
 
 * [ascl.net](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [egi.eu](https://appdb.egi.eu/browse/software) - Grid Computing middleware.
-* [hepsoftware.org](http://www.hepsoftware.org) - Multi-faceted browser with
+* [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
   to High Energy Physics.
 * Humanities
   * [dighumlab.org](https://dighumlab.org/tools/) - Software tools as used in
   the humanities, such as speech analysis, tokenization, lemmatization, web
   content scraping, and more.
+  * [digitalmethods.net](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Digital
+  methods for research into social and political issues based on New Media.
   * [tapor.ca](http://tapor.ca/home) - Text Analysis.
 * Life Sciences / Biology / Medical
   * [bio.tools](https://bio.tools) - Essential scientific and technical
   information about software tools, databases and services for bioinformatics
   and the life sciences.
   * [biii.eu](https://biii.eu) - Bioimaging.
-  * [sbgrid.org](https://sbgrid.org/software/) - Structural biology softwares and datasets. Members of SBGrid can benefit access to all of the deposited softwares, e.g. PyMOL.
-  * [scicrunch.org](https://scicrunch.org/browse/resourcedashboard) - A human curated repository with unique persistent identifiers that are widely used in the biomedical literature.
+  * [sbgrid.org](https://sbgrid.org/software/) - Structural biology softwares
+  and datasets. Members of SBGrid can benefit access to all of the deposited
+  softwares, e.g. PyMOL.
+  * [scicrunch.org](https://scicrunch.org/browse/resourcedashboard) - A human
+  curated repository with unique persistent identifiers that are widely used in
+  the biomedical literature.
 * [Machine Learning](https://mloss.org/software)
 * Mathematics
   * [gams.nist.gov](https://gams.nist.gov/cgi-bin/serve.cgi/Packages) - A
@@ -90,15 +96,34 @@ below.
 
 ## Generic
 
-* [CodeOcean](https://codeocean.com) - Cloud-based computational environment to preserve, publish, and execute research code.
-* [FigShare](https://figshare.com) - Helps academic institutions store, share and manage all of their research outputs, and issues persistent identifiers.
+* [CodeOcean](https://codeocean.com) - Cloud-based computational environment to
+  preserve, publish, and execute research code.
+* [FigShare](https://figshare.com) - Helps academic institutions store, share
+  and manage all of their research outputs, and issues persistent identifiers.
 * [Software Heritage Archive](https://www.softwareheritage.org)
-* [Zenodo](https://zenodo.org) - Online library where you can deposit almost any kind of digital artefact and get a persistent identifier.
-* [Internet Archive](https://archive.org/details/software) - The Internet Archive Software Collection is the largest vintage and historical software library in the world.
+* [Zenodo](https://zenodo.org) - Online library where you can deposit almost
+  any kind of digital artefact and get a persistent identifier.
+* [Internet Archive](https://archive.org/details/software) - The Internet
+  Archive Software Collection is the largest vintage and historical software
+  library in the world.
+
 ## Contribute
 
 Help us expand the list of research software registries by [sending us a Pull
 Request](https://help.github.com/en/articles/creating-a-pull-request).
+
+When suggesting a link, note that eligible registries have at least some of
+the following properties:
+
+1. The registry includes metadata about each software package (check the link using
+   [Google's structured data testing tool](https://search.google.com/structured-data/testing-tool)).
+2. The registry includes links to a copy of the software, e.g. on GitHub, or Bitbucket.
+3. The registry includes a human-readable description of what each software does. Having just the name
+   of software is not sufficient, as this is not helping visitors judge if the
+   software will help them solve their problem.
+4. The registry includes contextual information about the software, e.g. papers, blogs, presentations,
+   posters, or videos associated with it.
+5. The registry contains more than just a handful of software packages.
 
 ## License
 
