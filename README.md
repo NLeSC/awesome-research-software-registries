@@ -74,8 +74,12 @@ below.
   information about software tools, databases and services for bioinformatics
   and the life sciences.
   * [biii.eu](https://biii.eu) - Bioimaging.
-  * [sbgrid.org](https://sbgrid.org/software/) - Structural biology softwares and datasets. Members of SBGrid can benefit access to all of the deposited softwares, e.g. PyMOL.
-  * [scicrunch.org](https://scicrunch.org/browse/resourcedashboard) - A human curated repository with unique persistent identifiers that are widely used in the biomedical literature.
+  * [sbgrid.org](https://sbgrid.org/software/) - Structural biology softwares
+  and datasets. Members of SBGrid can benefit access to all of the deposited
+  softwares, e.g. PyMOL.
+  * [scicrunch.org](https://scicrunch.org/browse/resourcedashboard) - A human
+  curated repository with unique persistent identifiers that are widely used in
+  the biomedical literature.
 * [Machine Learning](https://mloss.org/software)
 * Mathematics
   * [gams.nist.gov](https://gams.nist.gov/cgi-bin/serve.cgi/Packages) - A
@@ -90,11 +94,17 @@ below.
 
 ## Generic
 
-* [CodeOcean](https://codeocean.com) - Cloud-based computational environment to preserve, publish, and execute research code.
-* [FigShare](https://figshare.com) - Helps academic institutions store, share and manage all of their research outputs, and issues persistent identifiers.
+* [CodeOcean](https://codeocean.com) - Cloud-based computational environment to
+  preserve, publish, and execute research code.
+* [FigShare](https://figshare.com) - Helps academic institutions store, share
+  and manage all of their research outputs, and issues persistent identifiers.
 * [Software Heritage Archive](https://www.softwareheritage.org)
-* [Zenodo](https://zenodo.org) - Online library where you can deposit almost any kind of digital artefact and get a persistent identifier.
-* [Internet Archive](https://archive.org/details/software) - The Internet Archive Software Collection is the largest vintage and historical software library in the world.
+* [Zenodo](https://zenodo.org) - Online library where you can deposit almost
+  any kind of digital artefact and get a persistent identifier.
+* [Internet Archive](https://archive.org/details/software) - The Internet
+  Archive Software Collection is the largest vintage and historical software
+  library in the world.
+
 ## Contribute
 
 Help us expand the list of research software registries by [sending us a Pull
