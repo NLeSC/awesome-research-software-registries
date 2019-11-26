@@ -110,6 +110,18 @@ below.
 Help us expand the list of research software registries by [sending us a Pull
 Request](https://help.github.com/en/articles/creating-a-pull-request).
 
+When suggesting a link, note that eligible registries have at least some of
+the following properties:
+
+1. Metadata about each software package (check the link using
+   [Google's structured data testing tool](https://search.google.com/structured-data/testing-tool)).
+1. Links to a copy of the software, e.g. on GitHub, or Bitbucket.
+1. A human-readable description of what each software does. Having just the name
+   of software is not sufficient, as this is not helping visitors judge if the
+   software will help them solve their problem.
+1. Contextual information about the software, e.g. papers, blogs, presentations,
+   posters, or videos associated with it.
+
 ## License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
