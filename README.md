@@ -68,6 +68,8 @@ below.
   * [dighumlab.org](https://dighumlab.org/tools/) - Software tools as used in
   the humanities, such as speech analysis, tokenization, lemmatization, web
   content scraping, and more.
+  * [digitalmethods.net](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Digital
+  methods for research into social and political issues based on New Media.
   * [tapor.ca](http://tapor.ca/home) - Text Analysis.
 * Life Sciences / Biology / Medical
   * [bio.tools](https://bio.tools) - Essential scientific and technical
