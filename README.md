@@ -52,6 +52,9 @@ Institute of Technology overview of software packages.
 * [software.esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands
   eScience Center software portfolio (powered by the
   [Research Software Directory](https://github.com/research-software-directory/research-software-directory).)
+* [re3data](https://www.re3data.org/search?query=&contentTypes%5B%5D=Source%20code) - Many
+  of the registries listed in the _Registry of Research Data Repositories_ also
+  include software.
 * [USGS](https://usgs.ontosoft.org/#list) - US Geological Survey software,
   annotated and searchable using the
   [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for describing
