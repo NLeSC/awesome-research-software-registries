@@ -27,8 +27,12 @@ below.
 
 ## By organization
 
-* [compbiomed.eu](https://www.compbiomed.eu/services/software-hub/) - Software catalogue from H2020 project CompBioMed.
-* [darpa.mil](https://www.darpa.mil/opencatalog) - US Defense Advanced Research Projects Agency (DARPA).
+* [caltech.edu](https://data.caltech.edu/search?page=1&size=25&ln=en&q=&cal_resource_type=software) - California
+Institute of Technology overview of software packages.
+* [compbiomed.eu](https://www.compbiomed.eu/services/software-hub/) - Software
+  catalogue from H2020 project CompBioMed.
+* [darpa.mil](https://www.darpa.mil/opencatalog) - US Defense Advanced Research
+  Projects Agency (DARPA).
 * [b2find.eudat.eu](http://b2find.eudat.eu/dataset?q=software) - Data and
   software discovery service based on metadata harvested from research data
   collections from EUDAT data centres and other repositories.
@@ -39,9 +43,19 @@ below.
   * [Computer Science Software](https://crd.lbl.gov/software/computer-science-software/)
   * [Data Science & Technology Software](https://crd.lbl.gov/software/data-science-and-technology-software/)
 * [nasa.gov](https://software.nasa.gov/) - NASA software catalog.
-* [osti.gov/doecode](https://www.osti.gov/doecode/) - DOECODE: US Department of Energy code repository.
-* [software.esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands eScience
-  Center software portfolio (powered by the [Research Software Directory](https://github.com/research-software-directory/research-software-directory).)
+* [ontosoft.org](https://www.ontosoft.org/portal/#list) - Software from a
+  variety of disciplines, annotated and searchable using the
+  [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for describing
+  software.
+* [osti.gov/doecode](https://www.osti.gov/doecode/) - DOECODE: US Department of
+  Energy code repository.
+* [software.esciencecenter.nl](http://software.esciencecenter.nl) - Netherlands
+  eScience Center software portfolio (powered by the
+  [Research Software Directory](https://github.com/research-software-directory/research-software-directory).)
+* [USGS](https://usgs.ontosoft.org/#list) - US Geological Survey software,
+  annotated and searchable using the
+  [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for describing
+  software.
 
 ## By programming language
 
@@ -61,9 +75,26 @@ below.
 
 * [ascl.net](https://ascl.net) - Astrophysics Source Code Library (ASCL).
 * [egi.eu](https://appdb.egi.eu/browse/software) - Grid Computing middleware.
-* [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted browser with
-  software, experiments, science fields, organizations, and institutes related
-  to High Energy Physics.
+* [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted
+  browser with software, experiments, science fields, organizations, and
+  institutes related to High Energy Physics.
+* Earth Sciences
+  * [coral.ontosoft.org](https://coral.ontosoft.org/#list) - Software related to
+    the
+    [Coral Reef Science and Cyberinfrastructure network](https://www.earthcube.org/group/crescynt-coral-reef-science-cyberinfrastructure-network),
+    annotated and searchable using the [OntoSoft vocabulary](https://ontosoft.org/ontology.html)
+    for describing software.
+  * [csdms.ontosoft.org](https://csdms.ontosoft.org/#list) - Software related to
+    the [Community Surface Dynamics Modeling System](https://en.wikipedia.org/wiki/Community_Surface_Dynamics_Modeling_System),
+    annotated and searchable using the [OntoSoft vocabulary](https://ontosoft.org/ontology.html)
+    for describing software.
+  * [geodynamics.org](https://geodynamics.org/cig/software/) - Variety of
+    software packages covering crustal dynamics, tectonics, mantle convection,
+    seismology, spherical harmonics, and computational science.
+  * [geospace.ontosoft.org](https://geospace.ontosoft.org/#list) - Software from
+    the Geospace domain, annotated and searchable using the
+    [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for describing
+    software.
 * Humanities
   * [dighumlab.org](https://dighumlab.org/tools/) - Software tools as used in
   the humanities, such as speech analysis, tokenization, lemmatization, web
@@ -76,13 +107,19 @@ below.
   information about software tools, databases and services for bioinformatics
   and the life sciences.
   * [biii.eu](https://biii.eu) - Bioimaging.
+  * [omics.ontosoft.org](https://omics.ontosoft.org/#list) - Software related to
+    metabolomics, genomics and
+    [other omics](https://en.wikipedia.org/wiki/Omics), annotated and searchable
+    using the [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for
+    describing software.
   * [sbgrid.org](https://sbgrid.org/software/) - Structural biology softwares
   and datasets. Members of SBGrid can benefit access to all of the deposited
   softwares, e.g. PyMOL.
   * [scicrunch.org](https://scicrunch.org/browse/resourcedashboard) - A human
   curated repository with unique persistent identifiers that are widely used in
   the biomedical literature.
-* [Machine Learning](https://mloss.org/software)
+  * [yale.edu/modeldb](https://senselab.med.yale.edu/modeldb/) - Computational
+  neuroscience models.
 * Mathematics
   * [gams.nist.gov](https://gams.nist.gov/cgi-bin/serve.cgi/Packages) - A
   cross-index and virtual repository of mathematical and statistical software
@@ -92,7 +129,12 @@ below.
   web for solving problems in numerical linear algebra, specifically dense,
   sparse direct and iterative systems, and sparse iterative eigenvalue problems.
   * [swmath.org](https://swmath.org) - Mathematics.
+* [mloss.org/software](https://mloss.org/software) - Machine Learning.
 * [nanohub.org](https://nanohub.org/resources/tools) - Nano Technology.
+* Social and Ecological Sciences
+  * [comses.net](https://www.comses.net/codebases/) - Library of Computational
+    models for the study of social and ecological systems.
+
 
 ## Generic
 
@@ -145,3 +187,6 @@ This work is published from:
   Netherlands</span>.
 </p>
 
+* Computational Fluid Dynamics
+  * https://www.cfd-online.com/Links/soft.html
+  * https://www.cfd-online.com/Links/programming.html
