@@ -60,6 +60,7 @@ below.
 ## By domain
 
 * [ascl.net](https://ascl.net) - Astrophysics Source Code Library (ASCL).
+* [cfd-online.com](https://www.cfd-online.com) - Computational Fluid Dynamics.
 * [egi.eu](https://appdb.egi.eu/browse/software) - Grid Computing middleware.
 * [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted browser with
   software, experiments, science fields, organizations, and institutes related
