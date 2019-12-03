@@ -74,7 +74,9 @@ Institute of Technology overview of software packages.
 ## By domain
 
 * [ascl.net](https://ascl.net) - Astrophysics Source Code Library (ASCL).
-* [cfd-online.com](https://www.cfd-online.com) - Computational Fluid Dynamics.
+* Computational Fluid Dynamics
+  * https://www.cfd-online.com/Links/soft.html
+  * https://www.cfd-online.com/Links/programming.html
 * [egi.eu](https://appdb.egi.eu/browse/software) - Grid Computing middleware.
 * [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted
   browser with software, experiments, science fields, organizations, and
@@ -187,7 +189,3 @@ This work is published from:
       content="NL" about="https://github.com/nlesc/awesome-research-software-registries">
   Netherlands</span>.
 </p>
-
-* Computational Fluid Dynamics
-  * https://www.cfd-online.com/Links/soft.html
-  * https://www.cfd-online.com/Links/programming.html
