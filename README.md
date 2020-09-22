@@ -64,6 +64,7 @@ Institute of Technology overview of software packages.
 ## By programming language
 
 * [JavaScript, TypeScript](https://npmjs.com)
+* [Julia](https://juliahub.com/ui/Packages)
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
