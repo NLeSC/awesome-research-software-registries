@@ -69,6 +69,7 @@ Institute of Technology overview of software packages.
   * [Python Package Index (PyPI)](https://pypi.org)
 * R
   * [CRAN](https://cran.r-project.org)
+  * [rOpenSci](https://ropensci.org/packages/)
 * [Ruby](https://rubygems.org)
 * [Rust](https://crates.io)
 
