@@ -64,14 +64,11 @@ Institute of Technology overview of software packages.
 ## By programming language
 
 * [JavaScript, TypeScript](https://npmjs.com)
-* Julia
-  * [Julia Packages](https://pkg.julialang.org/docs/)
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
 * R
   * [CRAN](https://cran.r-project.org)
-  * [rOpenSci](https://ropensci.github.io)
 * [Ruby](https://rubygems.org)
 * [Rust](https://crates.io)
 
@@ -82,9 +79,6 @@ Institute of Technology overview of software packages.
   * https://www.cfd-online.com/Links/soft.html
   * https://www.cfd-online.com/Links/programming.html
 * [egi.eu](https://appdb.egi.eu/browse/software) - Grid Computing middleware.
-* [hepsoftware.org](http://www.hepsoftware.org/?popupmode=Software&popupstate=cat) - Multi-faceted
-  browser with software, experiments, science fields, organizations, and
-  institutes related to High Energy Physics.
 * Earth Sciences
   * [coral.ontosoft.org](https://coral.ontosoft.org/#list) - Software related to
     the
