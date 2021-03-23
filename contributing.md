@@ -16,3 +16,9 @@ the following properties:
    posters, or videos associated with it.
 5. The registry contains more than just a handful of software packages.
 
+If you know how, check that the awesomelist linter doesn't complain about any changes in your Pull Request with:
+
+```shell
+npm install
+npm test
+```
