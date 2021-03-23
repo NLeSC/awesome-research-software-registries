@@ -70,6 +70,7 @@ Institute of Technology overview of software packages.
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
+  * [Anaconda Cloud Gallery](https://anaconda.org/gallery)
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.github.io)
