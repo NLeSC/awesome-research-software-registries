@@ -1,5 +1,7 @@
 # Awesome Research Software Registries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint disable double-link-->
+
 A list of research software registries (also known as catalog, index, warehouse,
 repository, hub, platform, and other terms).
 
@@ -110,6 +112,7 @@ Institute of Technology overview of software packages.
   information about software tools, databases and services for bioinformatics
   and the life sciences.
   * [biii.eu](https://biii.eu) - Bioimaging.
+  * [nitrc.org](https://nitrc.org) - NeuroImaging Tools & Resources Collaboratory.
   * [omics.ontosoft.org](https://omics.ontosoft.org/#list) - Software related to
     metabolomics, genomics and
     [other omics](https://en.wikipedia.org/wiki/Omics), annotated and searchable
@@ -151,41 +154,3 @@ Institute of Technology overview of software packages.
 * [Internet Archive](https://archive.org/details/software) - The Internet
   Archive Software Collection is the largest vintage and historical software
   library in the world.
-
-## Contribute
-
-Help us expand the list of research software registries by [sending us a Pull
-Request](https://help.github.com/en/articles/creating-a-pull-request).
-
-When suggesting a link, note that eligible registries have at least some of
-the following properties:
-
-1. The registry includes metadata about each software package (check the link using
-   [Google's structured data testing tool](https://search.google.com/structured-data/testing-tool)).
-2. The registry includes links to a copy of the software, e.g. on GitHub, or Bitbucket.
-3. The registry includes a human-readable description of what each software does. Having just the name
-   of software is not sufficient, as this is not helping visitors judge if the
-   software will help them solve their problem.
-4. The registry includes contextual information about the software, e.g. papers, blogs, presentations,
-   posters, or videos associated with it.
-5. The registry contains more than just a handful of software packages.
-
-## License
-
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="https://github.com/nlesc/awesome-research-software-registries">
-    <span property="dct:title">Netherlands eScience Center</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Awesome Research Software Registries</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="NL" about="https://github.com/nlesc/awesome-research-software-registries">
-  Netherlands</span>.
-</p>

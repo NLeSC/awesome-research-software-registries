@@ -1,7 +1,7 @@
 {
    "license": "CC0-1.0",
    "devDependencies": {
-      "awesome-lint": "*"
+      "awesome-lint": "^0.17.1"
    },
    "repository": "https://github.com/nlesc/awesome-research-software-registries",
    "scripts": {
