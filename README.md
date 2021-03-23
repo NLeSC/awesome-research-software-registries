@@ -1,5 +1,7 @@
 # Awesome Research Software Registries [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<!--lint disable double-link-->
+
 A list of research software registries (also known as catalog, index, warehouse,
 repository, hub, platform, and other terms).
 
