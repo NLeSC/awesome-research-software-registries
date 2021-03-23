@@ -113,6 +113,7 @@ Institute of Technology overview of software packages.
   information about software tools, databases and services for bioinformatics
   and the life sciences.
   * [biii.eu](https://biii.eu) - Bioimaging.
+  * [nitrc.org](https://nitrc.org) - NeuroImaging Tools & Resources Collaboratory.
   * [omics.ontosoft.org](https://omics.ontosoft.org/#list) - Software related to
     metabolomics, genomics and
     [other omics](https://en.wikipedia.org/wiki/Omics), annotated and searchable
