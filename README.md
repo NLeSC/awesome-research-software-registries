@@ -75,6 +75,7 @@ Institute of Technology overview of software packages.
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.org/packages/)
+  * [Bioconductor](https://www.bioconductor.org/)
 * [Ruby](https://rubygems.org)
 * [Rust](https://crates.io)
 
@@ -113,6 +114,7 @@ Institute of Technology overview of software packages.
   * [bio.tools](https://bio.tools) - Essential scientific and technical
   information about software tools, databases and services for bioinformatics
   and the life sciences.
+  * [Bioconductor](https://www.bioconductor.org/)
   * [biii.eu](https://biii.eu) - Bioimaging.
   * [nitrc.org](https://nitrc.org) - NeuroImaging Tools & Resources Collaboratory.
   * [omics.ontosoft.org](https://omics.ontosoft.org/#list) - Software related to
