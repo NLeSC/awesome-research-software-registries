@@ -142,7 +142,7 @@ Institute of Technology overview of software packages.
 * Social and Ecological Sciences
   * [comses.net](https://www.comses.net/codebases/) - Library of Computational
     models for the study of social and ecological systems.
-
+  * [sosciso.de](https://www.sosciso.de) - Social Science Software (SoSciSo): Catalog of Software Tools for use in the Social Science Research Process
 
 ## Generic
 
