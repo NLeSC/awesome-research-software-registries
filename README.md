@@ -75,7 +75,7 @@ Institute of Technology overview of software packages.
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.org/packages/)
-  * [Bioconductor](https://www.bioconductor.org/)
+  * [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
 * [Ruby](https://rubygems.org)
 * [Rust](https://crates.io)
 
