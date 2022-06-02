@@ -66,6 +66,7 @@ Institute of Technology overview of software packages.
 ## By programming language
 
 * [C, C++](https://conan.io/center/)
+* [Java](https://search.maven.org/)
 * [JavaScript, TypeScript](https://npmjs.com)
 * [Julia](https://juliahub.com/ui/Packages)
 * [MATLAB](https://mathworks.com/matlabcentral/fileexchange/)
