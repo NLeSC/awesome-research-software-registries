@@ -31,6 +31,9 @@ below.
 
 * [caltech.edu](https://data.caltech.edu/search?page=1&size=25&ln=en&q=&cal_resource_type=software) - California
 Institute of Technology overview of software packages.
+* [CLARIAH Tools](https://tools.clariah.nl) - Software developed in and around 
+  the dutch CLARIAH project for researchers and developers in the Humanities and Social Sciences.
+  (automatically harvested from source and powered by [codemeta-server](https://github.com/proycon/codemeta-server))
 * [compbiomed.eu](https://www.compbiomed.eu/services/software-hub/) - Software
   catalogue from H2020 project CompBioMed.
 * [darpa.mil](https://www.darpa.mil/opencatalog) - US Defense Advanced Research
