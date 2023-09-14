@@ -107,6 +107,7 @@ Institute of Technology overview of software packages.
     the Geospace domain, annotated and searchable using the
     [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for describing
     software.
+* High energy physics [https://hepforge.org/](https://hepforge.org/) - HEPForge is a development environment for high energy physics software projects.
 * Humanities
   * [dighumlab.org](https://dighumlab.org/tools/) - Software tools as used in
   the humanities, such as speech analysis, tokenization, lemmatization, web
