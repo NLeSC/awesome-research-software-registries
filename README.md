@@ -135,6 +135,7 @@ Institute of Technology overview of software packages.
   the biomedical literature.
   * [yale.edu/modeldb](https://senselab.med.yale.edu/modeldb/) - Computational
   neuroscience models.
+  * [bioconda](https://bioconda.github.io/) - Conda channel dedicated to the life sciences.
 * Mathematics
   * [gams.nist.gov](https://gams.nist.gov/cgi-bin/serve.cgi/Packages) - A
   cross-index and virtual repository of mathematical and statistical software
