@@ -115,6 +115,7 @@ Institute of Technology overview of software packages.
   * [digitalmethods.net](https://wiki.digitalmethods.net/Dmi/ToolDatabase) - Digital
   methods for research into social and political issues based on New Media.
   * [tapor.ca](http://tapor.ca/home) - Text Analysis.
+  * [nfdi4culture.de](https://nfdi4culture.de/id/E2392) - The NFDI4Culture Registry collects metadata about existing research tools and data services, and provides a simple overview and detailed information about the resources.
 * Life Sciences / Biology / Medical
   * [bio.tools](https://bio.tools) - Essential scientific and technical
   information about software tools, databases and services for bioinformatics
