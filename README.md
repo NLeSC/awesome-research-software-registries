@@ -76,6 +76,7 @@ Institute of Technology overview of software packages.
 * Python
   * [Python Package Index (PyPI)](https://pypi.org)
   * [Anaconda Cloud Gallery](https://anaconda.org/gallery)
+  * [PyOpenSci](https://www.pyopensci.org/python-packages)
 * R
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.org/packages/)
