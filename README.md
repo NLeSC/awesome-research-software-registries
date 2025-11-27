@@ -48,6 +48,7 @@ Institute of Technology overview of software packages.
   * [Computer Science Software](https://crd.lbl.gov/software/computer-science-software/)
   * [Data Science & Technology Software](https://crd.lbl.gov/software/data-science-and-technology-software/)
 * [nasa.gov](https://software.nasa.gov/) - NASA software catalog.
+* [nfdi.software](https://nfdi.software) - Research data and software marketplace for the German national research data infrastructure association ([NFDI](https://www.nfdi.de/)), integrating  the Research Software Directory, bio.tools, the Research Software Ecosystem, Betty´s Research Engine and physics.tools.
 * [ontosoft.org](https://www.ontosoft.org/portal/#list) - Software from a
   variety of disciplines, annotated and searchable using the
   [OntoSoft vocabulary](https://ontosoft.org/ontology.html) for describing
