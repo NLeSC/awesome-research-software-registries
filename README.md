@@ -80,6 +80,7 @@ Institute of Technology overview of software packages.
   * [CRAN](https://cran.r-project.org)
   * [rOpenSci](https://ropensci.org/packages/)
   * [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software)
+  * [r-universe](https://r-universe.dev/)
 * [Ruby](https://rubygems.org)
 * [Rust](https://crates.io)
 
@@ -165,3 +166,4 @@ Institute of Technology overview of software packages.
 * [Internet Archive](https://archive.org/details/software) - The Internet
   Archive Software Collection is the largest vintage and historical software
   library in the world.
+* [ResearchEquals](https://researchequals.com/) - Modular publishing platform.
